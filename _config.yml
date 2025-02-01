@@ -1,5 +1,13 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
+name: Быстрый вход и рост в ИТ-сферу для любого уровня
+description: | 
+    Привет, спасибо что посетил мой сайт! 
+    <br>
+    <br>
+    В IT-сфере уже 10 лет. Начинал с php-разработчика, был тимлидом, руководителем отдела, ментором и системных архитектором.
+    <br>
+    <br>
+    За это время набил много шишек, многое понял и готов поделиться.
+
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 aboutPage: true
