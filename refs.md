@@ -1,0 +1,3 @@
+- https://www.youtube.com/@SergeyNemchinskiy/videos
+- https://www.youtube.com/c/theartofdevelopment
+- https://bitrix-expert.github.io/bitrix.expert/experts/8/index.html
