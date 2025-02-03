@@ -1,7 +1,7 @@
 ---
-title:  "Welcome to Jekyll!"
-date:   2013-11-10 10:18:00
-description: Thriller Comedy Horror
+title:  "Ответы на самые частые вопросы на старте"
+date:   2024-11-10 10:18:00
+description: Как перестать бояться и начать действовать
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
