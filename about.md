@@ -1,7 +1,7 @@
 ---
 title: Обо мне
 permalink: about/
-profile: true
+profile: false
 ---
 
 ## Чем я могу помочь?
