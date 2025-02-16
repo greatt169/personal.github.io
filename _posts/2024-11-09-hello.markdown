@@ -8,7 +8,7 @@ description: Как мы работаем
 Все, что нужно сделать, — это просто начать. Дальше вы во всем разберетесь, и все у вас получится.
 
 ### 1. Ставим цели
-<img src="/assets/images/set_goals.jpg" alt="image" style="width:200px;height:auto;" />
+<img src="/personal.github.io/assets/images/set_goals.jpg" alt="image" style="width:200px;height:auto;" />
 
 Это важно сделать с самого начала.
 
